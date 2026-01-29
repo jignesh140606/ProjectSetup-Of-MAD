@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202784332047",
+    "project_id": "campus-assistant-3f1a7",
+    "storage_bucket": "campus-assistant-3f1a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202784332047:android:be4823c2a2c6a4a99a867a",
+        "android_client_info": {
+          "package_name": "com.example.campusassistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_invrkxzdmE-RYOdZjzhWq-SW00FBUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
