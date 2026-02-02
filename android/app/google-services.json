@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:202784332047:android:c578ea23225b75c09a867a",
+        "android_client_info": {
+          "package_name": "com.example.campus_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_invrkxzdmE-RYOdZjzhWq-SW00FBUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:202784332047:android:be4823c2a2c6a4a99a867a",
         "android_client_info": {
           "package_name": "com.example.campusassistant"
